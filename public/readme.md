@@ -1,0 +1,1 @@
+python cli.py --input_dir /data/projects/FlashWorld/examples --output_dir /data/projects/FlashWorld-output --ckpt /data/models/FlashWorld/model.ckpt --video --spz --ply
